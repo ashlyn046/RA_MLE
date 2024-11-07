@@ -1,6 +1,6 @@
 # MLE Logistic Demand Estimator
 
-This project implements a Maximum Likelihood Estimation (MLE) model to estimate parameters of a logistic demand function based on simulated data.
+This project implements a simple Maximum Likelihood Estimation (MLE) model to estimate parameters of a logistic demand function based on simulated data.
 
 ## Overview
 
